@@ -13,9 +13,10 @@ Project 8 (final) of the [Front-End Web Developer with Udacity](https://eu.udaci
 
 ### Offline Use
 The service worker with the create-react-app only works in the production build, not in the development mode. We can run it in production by using the following commands
-`npm run build`
-`serve -s build`
-And then visit `localhost:5000`
+- `npm run build`
+- `serve -s build`
+And then visit
+- `localhost:5000`
 
 ## For Developers
 
