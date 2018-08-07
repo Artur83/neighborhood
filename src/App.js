@@ -20,7 +20,7 @@ class App extends Component {
 
   componentDidMount() {
     window.initMap = this.initMap;
-    loadJS('https://maps.googleapis.com/maps/api/js?key=AIzaSyB_AnvKY1bA7EDGBQVxGF5EJMeu2MruYPM&callback=initMap');
+    loadJS('https://maps.googleapis.com/maps/api/js?key=AIzaSyB_AnvKY1bA7EDGBQVxGF5EJMeu2MruYPM&callback=initMap' );
   }
 
   initMap = () => {
@@ -33,7 +33,7 @@ class App extends Component {
       center: { lat: 45.434285, lng: 12.338473 }
     });
 
-    /* Keep state in sy */
+    /* Error handling */
     window.gm_authFailure = function() {
       alert('Google maps failed to load! Please try later');
     }
