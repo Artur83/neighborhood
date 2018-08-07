@@ -1,0 +1,44 @@
+[
+        {
+          "key": "key-san-marco",
+          "title": "Piazza San Marco",
+          "name": "Piazza San Marco",
+          "position": { "lat": 45.434395, "lng": 12.338454 }
+        },
+        {
+          "key": "key-doge",
+          "title": "Doge's Palace",
+          "name": "Doge's Palace",
+          "position": { "lat": 45.433965, "lng": 12.340330 }
+        },
+        {
+          "key": "key-rialto",
+          "title": "Rialto Bridge",
+          "name": "Rialto Bridge",
+          "position": { "lat": 45.438142, "lng": 12.335916 }
+        },
+        {
+          "key": "key-grand-canal",
+          "title": "Grand Canal (Venice)",
+          "name": "Grand Canal (Venice)",
+          "position": { "lat": 45.436458, "lng": 12.332245 }
+        },
+        {
+          "key": "key-accademia",
+          "title": "Ponte dell'Accademia",
+          "name": "Ponte dell'Accademia",
+          "position": { "lat": 45.431691, "lng": 12.328907   }
+        },
+        {
+          "key": "key-bovolo",
+          "title": "Palazzo Contarini del Bovolo",
+          "name": "SPalazzo Contarini del Bovolo",
+          "position": { "lat": 45.434904, "lng": 12.334525   }
+        },
+        {
+          "key": "key-murano",
+          "title": "Murano",
+          "name": "Murano",
+          "position": { "lat": 45.459753, "lng": 12.352281   }
+        }
+]
