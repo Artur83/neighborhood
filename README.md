@@ -11,6 +11,12 @@ Project 8 (final) of the [Front-End Web Developer with Udacity](https://eu.udaci
 - By clicking in the **name on the list** or in the **marker** you will have an **info window** which will be displayed in the top-right corner of the screen
 - The content of the info window comes from the **Wikipedia article** corresponding to the location you have clicked on
 
+### Offline Use
+The service worker with the create-react-app only works in the production build, not in the development mode. We can run it in production by using the following commands
+`npm run build`
+`serve -s build`
+And then visit `localhost:5000`
+
 ## For Developers
 
 ### Get Started
