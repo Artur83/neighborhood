@@ -33,6 +33,11 @@ class App extends Component {
       center: { lat: 45.434285, lng: 12.338473 }
     });
 
+    /* Keep state in sy */
+    window.gm_authFailure = function() {
+      alert('Google maps failed to load! Please try later');
+    }
+
     /* Keep state in sync */
     this.setState({
       map
